@@ -1,5 +1,9 @@
 ![Logo](docs/Logo.png)
-# 🎬 VideoSnapper 幀影擷取工具 ![License](https://img.shields.io/github/license/natsuki221/VideoSnapper) ![Stars](https://img.shields.io/github/stars/natsuki221/VideoSnapper?style=social) ![Last Commit](https://img.shields.io/github/last-commit/natsuki221/VideoSnapper)![Version](https://img.shields.io/github/package-json/v/natsuki221/VideoSnapper?filename=video-snapper%2Fpackage.json)
+# 🎬 VideoSnapper 幀影擷取工具 
+![License](https://img.shields.io/github/license/natsuki221/VideoSnapper)
+![Stars](https://img.shields.io/github/stars/natsuki221/VideoSnapper?style=social) 
+![Last Commit](https://img.shields.io/github/last-commit/natsuki221/VideoSnapper)
+![Version](https://img.shields.io/github/package-json/v/natsuki221/VideoSnapper?filename=video-snapper%2Fpackage.json)
 
 > 一鍵擷取影片畫面，讓創意隨時停格
 
@@ -62,7 +66,6 @@ npm run dev
 
 ## 💡 進階客製化
 
-- 🧩 **自訂字體**：將字體檔放入 `public/font`，並在 `tailwind.config.js` 註冊字體
 - 🎯 **更多快捷鍵**：在 `App.tsx` 的 `handleKey` 中新增自定義按鍵
 - 📦 **壓縮輸出**：整合 `browser-image-compression`，減少影像大小
 
@@ -76,4 +79,4 @@ npm run dev
 
 ## 📄 授權聲明
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [natsuki221](https://github.com/natsuki221)
